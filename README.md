@@ -1,5 +1,7 @@
 # 🌍 Fun with Flags
 
+![Fun with Flags](./image.png)
+
 Bem-vindo ao repositório do **Fun wih Flags**, um projeto criado para aprimorar habilidades em desenvolvimento front-end enquanto exploramos a riqueza cultural e geográfica dos países ao redor do mundo! 🌐
 
 
