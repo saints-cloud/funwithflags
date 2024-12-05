@@ -5,6 +5,7 @@ import "./globals.css";
 const notoSans = Noto_Sans({
   variable: "--font-geist-sans",
   weight: ["400", "700"],
+  subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
