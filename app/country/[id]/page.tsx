@@ -77,7 +77,7 @@ export default function Country() {
     .map(({ name, symbol }) => `${name} (${symbol})`)
     .join(",");
   const [topLevelDomain] = tld ?? [];
-  const bordersIds = borders ?? "";
+  const bordersIds = borders ?? []; // Alterado de "" para []
 
   return (
     <React.Fragment>
